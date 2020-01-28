@@ -30,7 +30,7 @@ void Draw()
 
 		{
 			if (j == 0)
-				cout << "#";
+				cout << "-";
 			if (i == y && j == x)
 				cout << "0";
 			else if (i == fruitY && j == fruitX)
@@ -38,7 +38,7 @@ void Draw()
 			else
 				cout << " ";
 			if (j == width - 1)
-				cout << "#";
+				cout << "I";
 		}
 		cout << endl;
 	}
