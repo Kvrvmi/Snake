@@ -3,5 +3,5 @@ Simple Snake Game based of a tutorial by NVitanovic
 all credits go to him
 
 
-Reproduced for learning C++
-if download mention NVitanovic
+reproduced for learning C++
+if download and published mention NVitanovic
